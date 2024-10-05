@@ -34,6 +34,10 @@
     <img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx-Website/master/public/assets/images/shell.png">
 </p>
 
+## To Do List
+
+1. Enable actions to build.
+
 ## Compatibility
 
 As of May 2024, Ryujinx has been tested on approximately 4,300 titles;
